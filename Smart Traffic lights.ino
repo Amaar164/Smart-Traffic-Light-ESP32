@@ -31,16 +31,16 @@ Adafruit_ST7735 tft(TFT_CS, TFT_DC, TFT_RST);
 
 // ---------------- WIFI -------------------------------
 
-const char* WIFI_SSID = "WE_Amaar";
-const char* WIFI_PASSWORD = "Amaar164";
+const char* WIFI_SSID = "WIFI_SSID";
+const char* WIFI_PASSWORD = "PASSWORD";
 
 const char* AP_SSID = "SMART-TRAFFIC-AI";
 const char* AP_PASSWORD = "12345678";
 
 // ---------------- TELEGRAM ---------------------------
 
-const char* BOT_TOKEN = "9186512693:AAHyD8iteBmDpi87BPq1V7Lu0R52OEabvpI";
-const char* CHAT_ID = "8092342515";
+const char* BOT_TOKEN = "BOT_TOKEN";
+const char* CHAT_ID = "CHAT_ID";
 // =====================================================
 //                    OBJECTS
 // =====================================================
